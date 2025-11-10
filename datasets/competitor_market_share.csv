@@ -1,0 +1,721 @@
+period,brand,model,market_share_pct,units_sold,avg_price_vnd,region,growth_rate
+2024Q1,VinFast,VF5,26.22,3587,406145122,Vietnam_North,
+2024Q1,Toyota,Corolla Cross,9.75,1334,988909353,Vietnam_North,
+2024Q1,Hyundai,Creta,14.33,1960,546047356,Vietnam_North,
+2024Q1,Kia,Seltos,5.1,698,864213443,Vietnam_North,
+2024Q1,Honda,CR-V,1.92,262,797531566,Vietnam_North,
+2024Q1,Mitsubishi,Xpander,6.66,911,841800890,Vietnam_North,
+2024Q1,Mazda,CX-5,1.27,173,937817190,Vietnam_North,
+2024Q1,BYD,Atto 3,0.88,120,320377627,Vietnam_North,
+2024Q1,Tesla,Model Y,7.85,1074,1482443409,Vietnam_North,
+2024Q1,Wuling,Mini EV,1.13,154,273898387,Vietnam_North,
+2024Q1,Geely,Coolray,3.73,510,583391166,Vietnam_North,
+2024Q1,Great Wall,Haval H6,3.98,544,946763198,Vietnam_North,
+2024Q1,Nissan,Almera,1.95,266,630728508,Vietnam_North,
+2024Q1,Ford,Everest,5.16,706,1199801833,Vietnam_North,
+2024Q1,Mercedes,GLC,10.05,1375,2268787497,Vietnam_North,
+2024Q1,VinFast,VF5,16.41,1655,365659499,Vietnam_Central,
+2024Q1,Toyota,Vios,17.41,1755,721148121,Vietnam_Central,
+2024Q1,Hyundai,Creta,14.15,1426,608860219,Vietnam_Central,
+2024Q1,Kia,Seltos,1.77,178,815589434,Vietnam_Central,
+2024Q1,Honda,CR-V,4.86,490,523599001,Vietnam_Central,
+2024Q1,Mitsubishi,Xpander,0.5,50,644066134,Vietnam_Central,
+2024Q1,Mazda,CX-5,1.02,102,960503704,Vietnam_Central,
+2024Q1,BYD,Atto 3,0.97,98,336594991,Vietnam_Central,
+2024Q1,Tesla,Model Y,9.19,927,1657749478,Vietnam_Central,
+2024Q1,Wuling,Mini EV,1.26,127,391530187,Vietnam_Central,
+2024Q1,Geely,Coolray,8.29,836,743285074,Vietnam_Central,
+2024Q1,Great Wall,Haval H6,0.43,43,963861947,Vietnam_Central,
+2024Q1,Nissan,Almera,9.69,977,456989562,Vietnam_Central,
+2024Q1,Ford,Everest,6.5,655,727166881,Vietnam_Central,
+2024Q1,Mercedes,GLC,7.53,759,1841323267,Vietnam_Central,
+2024Q1,VinFast,VF5,22.92,4280,406505596,Vietnam_South,
+2024Q1,Toyota,Corolla Cross,18.07,3375,970272144,Vietnam_South,
+2024Q1,Hyundai,Accent,14.86,2774,672015178,Vietnam_South,
+2024Q1,Kia,Seltos,11.66,2178,738311758,Vietnam_South,
+2024Q1,Honda,CR-V,4.28,799,572523801,Vietnam_South,
+2024Q1,Mitsubishi,Xpander,2.7,504,766637962,Vietnam_South,
+2024Q1,Mazda,CX-5,2.93,547,722329861,Vietnam_South,
+2024Q1,BYD,Atto 3,7.08,1322,579019890,Vietnam_South,
+2024Q1,Tesla,Model 3,6.49,1211,1397696951,Vietnam_South,
+2024Q1,Wuling,Mini EV,1.11,208,291533138,Vietnam_South,
+2024Q1,Geely,Coolray,0.68,127,443567006,Vietnam_South,
+2024Q1,Great Wall,Haval H6,1.49,277,920929813,Vietnam_South,
+2024Q1,Nissan,Almera,1.92,358,542402290,Vietnam_South,
+2024Q1,Ford,Ranger,1.87,349,849103026,Vietnam_South,
+2024Q1,Mercedes,GLC,1.94,363,2512460919,Vietnam_South,
+2024Q1,VinFast,VF9,3.62,857,844089317,Indonesia,
+2024Q1,Toyota,Vios,2.8,661,887973930,Indonesia,
+2024Q1,Hyundai,Creta,3.89,919,958062529,Indonesia,
+2024Q1,Kia,Morning,0.11,25,799664467,Indonesia,
+2024Q1,Honda,CR-V,2.09,493,632722085,Indonesia,
+2024Q1,Mitsubishi,Xpander,3.75,886,552553679,Indonesia,
+2024Q1,Mazda,CX-5,0.75,176,898050940,Indonesia,
+2024Q1,BYD,Dolphin,28.28,6684,315517735,Indonesia,
+2024Q1,Tesla,Model Y,17.49,4134,1696619510,Indonesia,
+2024Q1,Wuling,Mini EV,9.89,2337,305029993,Indonesia,
+2024Q1,Geely,Coolray,1.22,288,523225614,Indonesia,
+2024Q1,Great Wall,Haval H6,11.39,2693,845599658,Indonesia,
+2024Q1,Nissan,Almera,5.64,1334,879463258,Indonesia,
+2024Q1,Ford,Everest,1.16,275,1176470939,Indonesia,
+2024Q1,Mercedes,GLC,7.93,1874,2156443702,Indonesia,
+2024Q1,VinFast,VF e34,5.22,1214,712866892,Thailand,
+2024Q1,Toyota,Corolla Cross,27.11,6301,799560932,Thailand,
+2024Q1,Hyundai,Creta,18.76,4359,722178393,Thailand,
+2024Q1,Kia,Seltos,0.78,181,556909089,Thailand,
+2024Q1,Honda,City,2.18,506,969455780,Thailand,
+2024Q1,Mitsubishi,Xpander,1.53,356,823350253,Thailand,
+2024Q1,Mazda,CX-5,0.15,33,814622043,Thailand,
+2024Q1,BYD,Dolphin,18.52,4304,403570490,Thailand,
+2024Q1,Tesla,Model Y,8.26,1920,1594404807,Thailand,
+2024Q1,Wuling,Mini EV,7.6,1765,342755966,Thailand,
+2024Q1,Geely,Coolray,0.27,62,706362813,Thailand,
+2024Q1,Great Wall,Haval H6,5.33,1239,631455830,Thailand,
+2024Q1,Nissan,Almera,2.67,620,746344647,Thailand,
+2024Q1,Ford,Ranger,0.19,44,1105223464,Thailand,
+2024Q1,Mercedes,EQA,1.42,330,2878345504,Thailand,
+2024Q1,VinFast,VF9,4.34,518,468103086,Malaysia,
+2024Q1,Toyota,Corolla Cross,15.23,1819,1099001796,Malaysia,
+2024Q1,Hyundai,Creta,11.03,1317,698886885,Malaysia,
+2024Q1,Kia,Seltos,0.55,66,417738357,Malaysia,
+2024Q1,Honda,City,9.03,1079,922674305,Malaysia,
+2024Q1,Mitsubishi,Xpander,1.25,149,866462130,Malaysia,
+2024Q1,Mazda,CX-5,2.08,248,915816249,Malaysia,
+2024Q1,BYD,Dolphin,5.06,604,787970816,Malaysia,
+2024Q1,Tesla,Model 3,13.04,1557,1314242950,Malaysia,
+2024Q1,Wuling,Mini EV,2.06,245,372857182,Malaysia,
+2024Q1,Geely,Coolray,4.07,485,510545994,Malaysia,
+2024Q1,Great Wall,Haval H6,7.21,860,880641293,Malaysia,
+2024Q1,Nissan,Almera,1.85,220,678462323,Malaysia,
+2024Q1,Ford,Everest,19.81,2366,1242448805,Malaysia,
+2024Q1,Mercedes,GLC,3.4,406,1817733598,Malaysia,
+2024Q2,VinFast,VF e34,21.5,3447,429478550,Vietnam_North,
+2024Q2,Toyota,Corolla Cross,16.41,2630,632114800,Vietnam_North,
+2024Q2,Hyundai,Creta,18.93,3035,635597581,Vietnam_North,
+2024Q2,Kia,Seltos,13.4,2147,621204516,Vietnam_North,
+2024Q2,Honda,CR-V,0.58,92,617347303,Vietnam_North,
+2024Q2,Mitsubishi,Xpander,2.25,361,826396175,Vietnam_North,
+2024Q2,Mazda,CX-5,3.75,600,696967420,Vietnam_North,
+2024Q2,BYD,Dolphin,0.97,155,582120498,Vietnam_North,
+2024Q2,Tesla,Model 3,3.42,547,1829134324,Vietnam_North,
+2024Q2,Wuling,Mini EV,0.1,15,271809816,Vietnam_North,
+2024Q2,Geely,Coolray,3.37,540,497505127,Vietnam_North,
+2024Q2,Great Wall,Haval H6,6.68,1070,751113934,Vietnam_North,
+2024Q2,Nissan,Almera,1.66,265,745944407,Vietnam_North,
+2024Q2,Ford,Everest,3.36,539,710775914,Vietnam_North,
+2024Q2,Mercedes,GLC,3.63,581,2985635330,Vietnam_North,
+2024Q2,VinFast,VF5,24.27,2551,602923102,Vietnam_Central,
+2024Q2,Toyota,Vios,16.69,1754,873605674,Vietnam_Central,
+2024Q2,Hyundai,Accent,4.43,465,713973084,Vietnam_Central,
+2024Q2,Kia,Seltos,10.56,1110,565916193,Vietnam_Central,
+2024Q2,Honda,CR-V,5.48,575,655916047,Vietnam_Central,
+2024Q2,Mitsubishi,Xpander,10.61,1115,823964183,Vietnam_Central,
+2024Q2,Mazda,CX-5,6.74,708,860365749,Vietnam_Central,
+2024Q2,BYD,Atto 3,2.14,225,757818359,Vietnam_Central,
+2024Q2,Tesla,Model Y,2.12,222,1808768141,Vietnam_Central,
+2024Q2,Wuling,Mini EV,4.37,459,333387159,Vietnam_Central,
+2024Q2,Geely,Coolray,1.24,130,726066626,Vietnam_Central,
+2024Q2,Great Wall,Haval H6,8.03,844,864862192,Vietnam_Central,
+2024Q2,Nissan,Almera,2.29,240,569849291,Vietnam_Central,
+2024Q2,Ford,Ranger,1.02,106,1243618099,Vietnam_Central,
+2024Q2,Mercedes,EQA,0.01,1,2190878830,Vietnam_Central,
+2024Q2,VinFast,VF e34,25.03,5469,392884064,Vietnam_South,
+2024Q2,Toyota,Corolla Cross,15.64,3418,597675901,Vietnam_South,
+2024Q2,Hyundai,Creta,5.84,1276,997600310,Vietnam_South,
+2024Q2,Kia,Seltos,4.07,889,492617826,Vietnam_South,
+2024Q2,Honda,City,2.96,647,641569041,Vietnam_South,
+2024Q2,Mitsubishi,Xpander,5.79,1264,843951703,Vietnam_South,
+2024Q2,Mazda,CX-5,3.72,813,715174003,Vietnam_South,
+2024Q2,BYD,Dolphin,3.46,756,625033733,Vietnam_South,
+2024Q2,Tesla,Model Y,6.16,1346,1365327163,Vietnam_South,
+2024Q2,Wuling,Mini EV,10.0,2185,219476988,Vietnam_South,
+2024Q2,Geely,Coolray,2.47,538,555277956,Vietnam_South,
+2024Q2,Great Wall,Haval H6,0.22,48,804451274,Vietnam_South,
+2024Q2,Nissan,Almera,1.5,328,753218125,Vietnam_South,
+2024Q2,Ford,Ranger,3.28,716,801123977,Vietnam_South,
+2024Q2,Mercedes,EQA,9.84,2149,2788807270,Vietnam_South,
+2024Q2,VinFast,VF e34,5.84,1484,360632404,Indonesia,
+2024Q2,Toyota,Corolla Cross,6.94,1763,1049473787,Indonesia,
+2024Q2,Hyundai,Creta,6.99,1775,483803059,Indonesia,
+2024Q2,Kia,Seltos,7.92,2012,889425650,Indonesia,
+2024Q2,Honda,City,1.38,351,557617008,Indonesia,
+2024Q2,Mitsubishi,Xpander,11.82,3004,839256574,Indonesia,
+2024Q2,Mazda,CX-5,2.3,584,948273058,Indonesia,
+2024Q2,BYD,Dolphin,9.64,2449,394655537,Indonesia,
+2024Q2,Tesla,Model 3,7.39,1879,1853341389,Indonesia,
+2024Q2,Wuling,Mini EV,14.74,3747,241023127,Indonesia,
+2024Q2,Geely,Coolray,4.6,1168,523552517,Indonesia,
+2024Q2,Great Wall,Haval H6,6.96,1769,791285644,Indonesia,
+2024Q2,Nissan,Almera,6.42,1631,734584413,Indonesia,
+2024Q2,Ford,Ranger,1.69,430,1258101765,Indonesia,
+2024Q2,Mercedes,GLC,5.36,1363,2946905769,Indonesia,
+2024Q2,VinFast,VF3,9.35,2115,856549508,Thailand,
+2024Q2,Toyota,Vios,11.84,2679,646624764,Thailand,
+2024Q2,Hyundai,Accent,17.68,4000,837834891,Thailand,
+2024Q2,Kia,Morning,3.26,738,755303485,Thailand,
+2024Q2,Honda,CR-V,0.31,69,566672957,Thailand,
+2024Q2,Mitsubishi,Xpander,23.21,5251,736079959,Thailand,
+2024Q2,Mazda,CX-5,0.99,224,874975491,Thailand,
+2024Q2,BYD,Dolphin,9.8,2217,508812475,Thailand,
+2024Q2,Tesla,Model Y,3.6,815,1966850342,Thailand,
+2024Q2,Wuling,Mini EV,0.01,2,270687156,Thailand,
+2024Q2,Geely,Coolray,7.85,1777,445438239,Thailand,
+2024Q2,Great Wall,Haval H6,6.23,1410,662076533,Thailand,
+2024Q2,Nissan,Almera,3.49,790,867664307,Thailand,
+2024Q2,Ford,Ranger,1.33,299,914406232,Thailand,
+2024Q2,Mercedes,GLC,1.05,238,2221707138,Thailand,
+2024Q2,VinFast,VF3,3.99,444,380166373,Malaysia,
+2024Q2,Toyota,Vios,19.78,2200,643895804,Malaysia,
+2024Q2,Hyundai,Creta,13.97,1553,819729544,Malaysia,
+2024Q2,Kia,Seltos,1.96,217,706653774,Malaysia,
+2024Q2,Honda,CR-V,4.74,527,869978588,Malaysia,
+2024Q2,Mitsubishi,Xpander,1.35,150,847421256,Malaysia,
+2024Q2,Mazda,CX-5,3.06,340,901942111,Malaysia,
+2024Q2,BYD,Dolphin,14.81,1646,652482836,Malaysia,
+2024Q2,Tesla,Model 3,10.36,1151,1499014633,Malaysia,
+2024Q2,Wuling,Mini EV,8.4,934,247425549,Malaysia,
+2024Q2,Geely,Coolray,1.64,181,484343741,Malaysia,
+2024Q2,Great Wall,Haval H6,4.33,481,920894217,Malaysia,
+2024Q2,Nissan,Almera,10.55,1173,884469734,Malaysia,
+2024Q2,Ford,Everest,0.0,0,1218845466,Malaysia,
+2024Q2,Mercedes,EQA,1.05,117,1978243838,Malaysia,
+2024Q3,VinFast,VF5,21.46,3128,1086106566,Vietnam_North,
+2024Q3,Toyota,Vios,8.09,1179,603524385,Vietnam_North,
+2024Q3,Hyundai,Accent,12.41,1809,963256716,Vietnam_North,
+2024Q3,Kia,Seltos,2.92,425,523421125,Vietnam_North,
+2024Q3,Honda,City,10.81,1576,930975400,Vietnam_North,
+2024Q3,Mitsubishi,Xpander,8.94,1302,856188664,Vietnam_North,
+2024Q3,Mazda,CX-5,9.53,1390,815479853,Vietnam_North,
+2024Q3,BYD,Atto 3,1.16,168,750948273,Vietnam_North,
+2024Q3,Tesla,Model Y,7.34,1070,1360817995,Vietnam_North,
+2024Q3,Wuling,Mini EV,7.25,1056,286640286,Vietnam_North,
+2024Q3,Geely,Coolray,0.12,18,660955525,Vietnam_North,
+2024Q3,Great Wall,Haval H6,2.22,324,910246616,Vietnam_North,
+2024Q3,Nissan,Almera,0.67,97,631266487,Vietnam_North,
+2024Q3,Ford,Ranger,5.99,873,1065298047,Vietnam_North,
+2024Q3,Mercedes,GLC,1.1,159,2072721698,Vietnam_North,
+2024Q3,VinFast,VF e34,18.0,1736,736538323,Vietnam_Central,
+2024Q3,Toyota,Vios,15.47,1492,745967412,Vietnam_Central,
+2024Q3,Hyundai,Accent,12.43,1199,568238348,Vietnam_Central,
+2024Q3,Kia,Morning,3.47,334,430801066,Vietnam_Central,
+2024Q3,Honda,City,9.67,932,714566369,Vietnam_Central,
+2024Q3,Mitsubishi,Xpander,10.33,996,887850029,Vietnam_Central,
+2024Q3,Mazda,CX-5,1.27,122,791006424,Vietnam_Central,
+2024Q3,BYD,Atto 3,0.34,32,670702812,Vietnam_Central,
+2024Q3,Tesla,Model Y,1.2,115,1859235530,Vietnam_Central,
+2024Q3,Wuling,Mini EV,5.03,484,326943771,Vietnam_Central,
+2024Q3,Geely,Coolray,6.98,673,629379264,Vietnam_Central,
+2024Q3,Great Wall,Haval H6,7.61,733,997877224,Vietnam_Central,
+2024Q3,Nissan,Almera,1.86,179,835753988,Vietnam_Central,
+2024Q3,Ford,Everest,0.55,53,953402472,Vietnam_Central,
+2024Q3,Mercedes,EQA,5.78,556,2755007882,Vietnam_Central,
+2024Q3,VinFast,VF e34,15.44,3193,1124290101,Vietnam_South,
+2024Q3,Toyota,Vios,13.18,2726,791787005,Vietnam_South,
+2024Q3,Hyundai,Accent,6.14,1269,836316502,Vietnam_South,
+2024Q3,Kia,Morning,0.63,130,849513465,Vietnam_South,
+2024Q3,Honda,CR-V,11.86,2451,527265915,Vietnam_South,
+2024Q3,Mitsubishi,Xpander,0.98,203,809621800,Vietnam_South,
+2024Q3,Mazda,CX-5,2.02,418,983737988,Vietnam_South,
+2024Q3,BYD,Atto 3,3.96,818,546389977,Vietnam_South,
+2024Q3,Tesla,Model 3,9.04,1868,1950976540,Vietnam_South,
+2024Q3,Wuling,Mini EV,4.36,901,362005488,Vietnam_South,
+2024Q3,Geely,Coolray,0.15,31,664628631,Vietnam_South,
+2024Q3,Great Wall,Haval H6,12.32,2547,946195916,Vietnam_South,
+2024Q3,Nissan,Almera,4.1,847,523259008,Vietnam_South,
+2024Q3,Ford,Ranger,0.27,56,1077814087,Vietnam_South,
+2024Q3,Mercedes,GLC,15.54,3213,2509907061,Vietnam_South,
+2024Q3,VinFast,VF5,5.23,1183,1042235017,Indonesia,
+2024Q3,Toyota,Corolla Cross,17.53,3965,509839663,Indonesia,
+2024Q3,Hyundai,Creta,8.33,1884,920031175,Indonesia,
+2024Q3,Kia,Seltos,7.13,1611,419682084,Indonesia,
+2024Q3,Honda,City,2.42,546,644084555,Indonesia,
+2024Q3,Mitsubishi,Xpander,4.71,1066,553304901,Indonesia,
+2024Q3,Mazda,CX-5,0.37,82,859188102,Indonesia,
+2024Q3,BYD,Dolphin,17.93,4056,692149160,Indonesia,
+2024Q3,Tesla,Model 3,7.3,1650,1914543802,Indonesia,
+2024Q3,Wuling,Mini EV,12.36,2795,320803224,Indonesia,
+2024Q3,Geely,Coolray,5.25,1187,499021085,Indonesia,
+2024Q3,Great Wall,Haval H6,3.79,857,747545150,Indonesia,
+2024Q3,Nissan,Almera,6.63,1500,767853223,Indonesia,
+2024Q3,Ford,Everest,0.1,22,1168886362,Indonesia,
+2024Q3,Mercedes,GLC,0.92,208,2992931037,Indonesia,
+2024Q3,VinFast,VF3,6.74,1410,387861943,Thailand,
+2024Q3,Toyota,Vios,18.01,3770,875672988,Thailand,
+2024Q3,Hyundai,Creta,12.56,2628,856775136,Thailand,
+2024Q3,Kia,Seltos,10.57,2212,513719117,Thailand,
+2024Q3,Honda,CR-V,9.74,2039,736203126,Thailand,
+2024Q3,Mitsubishi,Xpander,5.16,1080,575221683,Thailand,
+2024Q3,Mazda,CX-5,1.76,368,758508079,Thailand,
+2024Q3,BYD,Dolphin,9.6,2009,753338429,Thailand,
+2024Q3,Tesla,Model 3,1.89,396,1988385047,Thailand,
+2024Q3,Wuling,Mini EV,1.77,370,391786542,Thailand,
+2024Q3,Geely,Coolray,6.2,1298,445157774,Thailand,
+2024Q3,Great Wall,Haval H6,0.11,22,942274021,Thailand,
+2024Q3,Nissan,Almera,2.51,525,852865212,Thailand,
+2024Q3,Ford,Ranger,3.01,630,1002737716,Thailand,
+2024Q3,Mercedes,GLC,10.36,2168,1936183286,Thailand,
+2024Q3,VinFast,VF e34,10.58,1377,740347327,Malaysia,
+2024Q3,Toyota,Vios,12.63,1644,901528192,Malaysia,
+2024Q3,Hyundai,Creta,7.6,989,800680862,Malaysia,
+2024Q3,Kia,Seltos,6.08,792,707868269,Malaysia,
+2024Q3,Honda,CR-V,3.67,477,544787595,Malaysia,
+2024Q3,Mitsubishi,Xpander,8.9,1158,590749835,Malaysia,
+2024Q3,Mazda,CX-5,3.36,437,952826430,Malaysia,
+2024Q3,BYD,Dolphin,13.94,1815,514527035,Malaysia,
+2024Q3,Tesla,Model Y,3.13,407,1710633580,Malaysia,
+2024Q3,Wuling,Mini EV,9.29,1209,269202833,Malaysia,
+2024Q3,Geely,Coolray,12.99,1691,597241880,Malaysia,
+2024Q3,Great Wall,Haval H6,1.06,137,734768814,Malaysia,
+2024Q3,Nissan,Almera,4.83,628,459860759,Malaysia,
+2024Q3,Ford,Ranger,0.11,14,928848392,Malaysia,
+2024Q3,Mercedes,EQA,1.83,237,2576293743,Malaysia,
+2024Q4,VinFast,VF3,14.04,2114,865241977,Vietnam_North,
+2024Q4,Toyota,Vios,29.78,4484,560225215,Vietnam_North,
+2024Q4,Hyundai,Accent,5.17,778,539484785,Vietnam_North,
+2024Q4,Kia,Seltos,6.24,939,458555661,Vietnam_North,
+2024Q4,Honda,City,0.44,66,753990290,Vietnam_North,
+2024Q4,Mitsubishi,Xpander,1.73,260,896760016,Vietnam_North,
+2024Q4,Mazda,CX-5,10.15,1528,915306007,Vietnam_North,
+2024Q4,BYD,Dolphin,0.73,109,491595512,Vietnam_North,
+2024Q4,Tesla,Model 3,10.95,1648,1525449623,Vietnam_North,
+2024Q4,Wuling,Mini EV,4.14,622,265067265,Vietnam_North,
+2024Q4,Geely,Coolray,5.46,821,487708001,Vietnam_North,
+2024Q4,Great Wall,Haval H6,3.64,548,985375872,Vietnam_North,
+2024Q4,Nissan,Almera,2.97,447,594937368,Vietnam_North,
+2024Q4,Ford,Ranger,0.97,145,886876315,Vietnam_North,
+2024Q4,Mercedes,EQA,3.6,541,2113905286,Vietnam_North,
+2024Q4,VinFast,VF9,18.82,1708,496072062,Vietnam_Central,
+2024Q4,Toyota,Corolla Cross,22.63,2053,684476614,Vietnam_Central,
+2024Q4,Hyundai,Accent,7.87,714,474471181,Vietnam_Central,
+2024Q4,Kia,Morning,0.04,3,802031252,Vietnam_Central,
+2024Q4,Honda,CR-V,3.97,360,756223518,Vietnam_Central,
+2024Q4,Mitsubishi,Xpander,1.02,92,691581973,Vietnam_Central,
+2024Q4,Mazda,CX-5,1.31,118,853494450,Vietnam_Central,
+2024Q4,BYD,Dolphin,3.76,340,612713126,Vietnam_Central,
+2024Q4,Tesla,Model Y,8.4,761,1702937748,Vietnam_Central,
+2024Q4,Wuling,Mini EV,3.35,303,213206368,Vietnam_Central,
+2024Q4,Geely,Coolray,8.81,799,766920228,Vietnam_Central,
+2024Q4,Great Wall,Haval H6,6.11,554,732040985,Vietnam_Central,
+2024Q4,Nissan,Almera,7.49,679,588188386,Vietnam_Central,
+2024Q4,Ford,Everest,2.37,214,749210673,Vietnam_Central,
+2024Q4,Mercedes,GLC,4.06,368,1921438024,Vietnam_Central,
+2024Q4,VinFast,VF e34,21.26,4024,885425410,Vietnam_South,
+2024Q4,Toyota,Vios,7.93,1500,821990787,Vietnam_South,
+2024Q4,Hyundai,Creta,25.21,4771,887260430,Vietnam_South,
+2024Q4,Kia,Morning,3.34,632,823570950,Vietnam_South,
+2024Q4,Honda,CR-V,3.76,711,614368842,Vietnam_South,
+2024Q4,Mitsubishi,Xpander,0.15,27,863293204,Vietnam_South,
+2024Q4,Mazda,CX-5,0.78,148,822025178,Vietnam_South,
+2024Q4,BYD,Dolphin,2.55,482,798034146,Vietnam_South,
+2024Q4,Tesla,Model Y,10.37,1962,1580062277,Vietnam_South,
+2024Q4,Wuling,Mini EV,2.63,498,219030950,Vietnam_South,
+2024Q4,Geely,Coolray,8.42,1593,718005822,Vietnam_South,
+2024Q4,Great Wall,Haval H6,0.51,96,629242694,Vietnam_South,
+2024Q4,Nissan,Almera,1.14,215,472199039,Vietnam_South,
+2024Q4,Ford,Ranger,10.42,1972,913156671,Vietnam_South,
+2024Q4,Mercedes,EQA,1.54,291,2629206095,Vietnam_South,
+2024Q4,VinFast,VF8,11.81,2774,359306182,Indonesia,
+2024Q4,Toyota,Corolla Cross,26.59,6246,970173457,Indonesia,
+2024Q4,Hyundai,Creta,7.37,1730,929810673,Indonesia,
+2024Q4,Kia,Morning,8.96,2104,728221105,Indonesia,
+2024Q4,Honda,CR-V,3.61,847,937647757,Indonesia,
+2024Q4,Mitsubishi,Xpander,1.91,448,693323712,Indonesia,
+2024Q4,Mazda,CX-5,3.04,714,773332380,Indonesia,
+2024Q4,BYD,Dolphin,13.4,3146,406870317,Indonesia,
+2024Q4,Tesla,Model Y,5.88,1381,1488011029,Indonesia,
+2024Q4,Wuling,Mini EV,8.52,2001,343967904,Indonesia,
+2024Q4,Geely,Coolray,0.95,223,527879688,Indonesia,
+2024Q4,Great Wall,Haval H6,0.18,42,930119320,Indonesia,
+2024Q4,Nissan,Almera,0.04,9,694563375,Indonesia,
+2024Q4,Ford,Ranger,2.66,625,1078908057,Indonesia,
+2024Q4,Mercedes,EQA,5.08,1194,1769210969,Indonesia,
+2024Q4,VinFast,VF8,17.79,4036,996239532,Thailand,
+2024Q4,Toyota,Vios,11.44,2594,1048057632,Thailand,
+2024Q4,Hyundai,Accent,15.92,3610,550966410,Thailand,
+2024Q4,Kia,Seltos,8.93,2024,493374648,Thailand,
+2024Q4,Honda,CR-V,10.22,2318,878424905,Thailand,
+2024Q4,Mitsubishi,Xpander,5.7,1293,707321442,Thailand,
+2024Q4,Mazda,CX-5,0.22,50,673952049,Thailand,
+2024Q4,BYD,Atto 3,13.58,3079,559407983,Thailand,
+2024Q4,Tesla,Model Y,3.24,734,1702318740,Thailand,
+2024Q4,Wuling,Mini EV,0.3,68,367624802,Thailand,
+2024Q4,Geely,Coolray,2.93,664,444092936,Thailand,
+2024Q4,Great Wall,Haval H6,1.95,442,723562748,Thailand,
+2024Q4,Nissan,Almera,4.86,1101,848593119,Thailand,
+2024Q4,Ford,Everest,1.79,405,1197778718,Thailand,
+2024Q4,Mercedes,GLC,1.15,259,2326230093,Thailand,
+2024Q4,VinFast,VF5,0.13,16,662479391,Malaysia,
+2024Q4,Toyota,Vios,13.03,1597,786435326,Malaysia,
+2024Q4,Hyundai,Creta,17.95,2200,873477446,Malaysia,
+2024Q4,Kia,Morning,9.56,1171,862382820,Malaysia,
+2024Q4,Honda,City,3.37,413,977635676,Malaysia,
+2024Q4,Mitsubishi,Xpander,0.52,64,831536953,Malaysia,
+2024Q4,Mazda,CX-5,2.86,350,924801354,Malaysia,
+2024Q4,BYD,Atto 3,20.8,2548,524074080,Malaysia,
+2024Q4,Tesla,Model 3,2.98,365,1461208887,Malaysia,
+2024Q4,Wuling,Mini EV,15.5,1899,280856795,Malaysia,
+2024Q4,Geely,Coolray,3.56,436,600025899,Malaysia,
+2024Q4,Great Wall,Haval H6,0.04,5,814428970,Malaysia,
+2024Q4,Nissan,Almera,3.84,470,562391512,Malaysia,
+2024Q4,Ford,Ranger,3.85,472,903888285,Malaysia,
+2024Q4,Mercedes,EQA,1.98,243,1648421956,Malaysia,
+2025Q1,VinFast,VF8,31.79,5303,1056472852,Vietnam_North,47.84
+2025Q1,Toyota,Corolla Cross,6.72,1121,545338045,Vietnam_North,-15.97
+2025Q1,Hyundai,Accent,7.62,1271,879468389,Vietnam_North,-35.15
+2025Q1,Kia,Seltos,1.33,222,549263636,Vietnam_North,-68.19
+2025Q1,Honda,CR-V,0.8,134,788272434,Vietnam_North,-48.85
+2025Q1,Mitsubishi,Xpander,2.09,348,880905065,Vietnam_North,-61.8
+2025Q1,Mazda,CX-5,3.96,660,908194754,Vietnam_North,281.5
+2025Q1,BYD,Dolphin,12.82,2138,356480919,Vietnam_North,1681.67
+2025Q1,Tesla,Model Y,7.54,1258,1497756891,Vietnam_North,17.13
+2025Q1,Wuling,Mini EV,1.39,231,276741427,Vietnam_North,50.0
+2025Q1,Geely,Coolray,4.01,669,546514649,Vietnam_North,31.18
+2025Q1,Great Wall,Haval H6,3.24,540,853857499,Vietnam_North,-0.74
+2025Q1,Nissan,Almera,8.03,1338,495864536,Vietnam_North,403.01
+2025Q1,Ford,Ranger,8.43,1406,1191306479,Vietnam_North,99.15
+2025Q1,Mercedes,GLC,0.23,39,2891502696,Vietnam_North,-97.16
+2025Q1,VinFast,VF e34,11.27,1148,687365107,Vietnam_Central,-30.63
+2025Q1,Toyota,Vios,22.84,2329,886525032,Vietnam_Central,32.71
+2025Q1,Hyundai,Creta,10.35,1055,559482948,Vietnam_Central,-26.02
+2025Q1,Kia,Seltos,6.31,643,448480369,Vietnam_Central,261.24
+2025Q1,Honda,City,5.81,592,695943887,Vietnam_Central,20.82
+2025Q1,Mitsubishi,Xpander,0.5,50,836614203,Vietnam_Central,0.0
+2025Q1,Mazda,CX-5,6.27,639,920141215,Vietnam_Central,526.47
+2025Q1,BYD,Atto 3,8.04,819,380045351,Vietnam_Central,735.71
+2025Q1,Tesla,Model Y,7.25,739,1921585709,Vietnam_Central,-20.28
+2025Q1,Wuling,Mini EV,0.55,56,221861302,Vietnam_Central,-55.91
+2025Q1,Geely,Coolray,0.9,91,470177889,Vietnam_Central,-89.11
+2025Q1,Great Wall,Haval H6,1.39,141,822585616,Vietnam_Central,227.91
+2025Q1,Nissan,Almera,13.69,1395,598427348,Vietnam_Central,42.78
+2025Q1,Ford,Ranger,2.02,205,1160086026,Vietnam_Central,-68.7
+2025Q1,Mercedes,GLC,2.83,288,1644394090,Vietnam_Central,-62.06
+2025Q1,VinFast,VF3,15.15,3025,363203267,Vietnam_South,-29.32
+2025Q1,Toyota,Corolla Cross,20.86,4165,590045999,Vietnam_South,23.41
+2025Q1,Hyundai,Creta,16.48,3291,709411982,Vietnam_South,18.64
+2025Q1,Kia,Seltos,0.37,73,617857191,Vietnam_South,-96.65
+2025Q1,Honda,City,2.72,542,832857539,Vietnam_South,-32.17
+2025Q1,Mitsubishi,Xpander,3.28,655,722501052,Vietnam_South,29.96
+2025Q1,Mazda,CX-5,3.33,665,969928694,Vietnam_South,21.57
+2025Q1,BYD,Dolphin,8.39,1676,683193986,Vietnam_South,26.78
+2025Q1,Tesla,Model 3,6.45,1288,1585269573,Vietnam_South,6.36
+2025Q1,Wuling,Mini EV,5.61,1119,376782158,Vietnam_South,437.98
+2025Q1,Geely,Coolray,7.81,1560,522486619,Vietnam_South,1128.35
+2025Q1,Great Wall,Haval H6,2.45,489,929626186,Vietnam_South,76.53
+2025Q1,Nissan,Almera,5.21,1041,823729625,Vietnam_South,190.78
+2025Q1,Ford,Everest,1.67,333,758647046,Vietnam_South,-4.58
+2025Q1,Mercedes,EQA,0.23,45,2742085091,Vietnam_South,-87.6
+2025Q1,VinFast,VF3,1.11,340,1107232907,Indonesia,-60.33
+2025Q1,Toyota,Vios,22.22,6777,650855728,Indonesia,925.26
+2025Q1,Hyundai,Accent,10.77,3284,604927575,Indonesia,257.34
+2025Q1,Kia,Seltos,8.2,2499,738080464,Indonesia,9896.0
+2025Q1,Honda,City,1.44,438,725790695,Indonesia,-11.16
+2025Q1,Mitsubishi,Xpander,7.64,2328,783672028,Indonesia,162.75
+2025Q1,Mazda,CX-5,3.56,1084,828212456,Indonesia,515.91
+2025Q1,BYD,Dolphin,10.83,3303,779776894,Indonesia,-50.58
+2025Q1,Tesla,Model Y,6.13,1870,1577535427,Indonesia,-54.77
+2025Q1,Wuling,Mini EV,13.66,4165,361877511,Indonesia,78.22
+2025Q1,Geely,Coolray,2.3,702,732361195,Indonesia,143.75
+2025Q1,Great Wall,Haval H6,0.53,160,936865752,Indonesia,-94.06
+2025Q1,Nissan,Almera,3.12,952,735730608,Indonesia,-28.64
+2025Q1,Ford,Ranger,7.14,2177,1109706029,Indonesia,691.64
+2025Q1,Mercedes,EQA,1.35,410,2708868841,Indonesia,-78.12
+2025Q1,VinFast,VF8,5.28,1246,690081303,Thailand,2.64
+2025Q1,Toyota,Vios,8.52,2013,681238137,Thailand,-68.05
+2025Q1,Hyundai,Creta,19.7,4651,795373988,Thailand,6.7
+2025Q1,Kia,Morning,0.07,15,783643084,Thailand,-91.71
+2025Q1,Honda,City,3.37,795,546022703,Thailand,57.11
+2025Q1,Mitsubishi,Xpander,0.13,31,566417286,Thailand,-91.29
+2025Q1,Mazda,CX-5,4.15,980,819561891,Thailand,2869.7
+2025Q1,BYD,Dolphin,2.69,636,692940306,Thailand,-85.22
+2025Q1,Tesla,Model 3,22.59,5335,1893366252,Thailand,177.86
+2025Q1,Wuling,Mini EV,2.24,529,235834148,Thailand,-70.03
+2025Q1,Geely,Coolray,12.39,2926,744769893,Thailand,4619.35
+2025Q1,Great Wall,Haval H6,1.81,426,834397560,Thailand,-65.62
+2025Q1,Nissan,Almera,11.01,2599,523606739,Thailand,319.19
+2025Q1,Ford,Everest,3.91,924,1227078047,Thailand,2000.0
+2025Q1,Mercedes,GLC,2.13,502,2872341176,Thailand,52.12
+2025Q1,VinFast,VF9,0.79,114,987271426,Malaysia,-77.99
+2025Q1,Toyota,Vios,3.75,542,963684451,Malaysia,-70.2
+2025Q1,Hyundai,Creta,17.32,2508,673422084,Malaysia,90.43
+2025Q1,Kia,Morning,5.65,818,494150564,Malaysia,1139.39
+2025Q1,Honda,CR-V,1.4,202,991725750,Malaysia,-81.28
+2025Q1,Mitsubishi,Xpander,1.07,155,853774288,Malaysia,4.03
+2025Q1,Mazda,CX-5,5.91,856,879332270,Malaysia,245.16
+2025Q1,BYD,Dolphin,18.41,2665,692501026,Malaysia,341.23
+2025Q1,Tesla,Model Y,7.27,1053,1797199572,Malaysia,-32.37
+2025Q1,Wuling,Mini EV,11.67,1690,330667486,Malaysia,589.8
+2025Q1,Geely,Coolray,4.36,630,673900934,Malaysia,29.9
+2025Q1,Great Wall,Haval H6,6.75,977,702162722,Malaysia,13.6
+2025Q1,Nissan,Almera,3.29,476,752118820,Malaysia,116.36
+2025Q1,Ford,Everest,7.91,1145,1299748393,Malaysia,-51.61
+2025Q1,Mercedes,GLC,4.47,646,1887517228,Malaysia,59.11
+2025Q2,VinFast,VF e34,28.01,4405,950214447,Vietnam_North,27.79
+2025Q2,Toyota,Corolla Cross,25.15,3955,721551740,Vietnam_North,50.38
+2025Q2,Hyundai,Creta,6.28,987,873354867,Vietnam_North,-67.48
+2025Q2,Kia,Morning,0.53,82,611315446,Vietnam_North,-96.18
+2025Q2,Honda,CR-V,1.94,305,633625102,Vietnam_North,231.52
+2025Q2,Mitsubishi,Xpander,3.28,515,894288324,Vietnam_North,42.66
+2025Q2,Mazda,CX-5,5.87,923,884096615,Vietnam_North,53.83
+2025Q2,BYD,Dolphin,1.09,171,334534929,Vietnam_North,10.32
+2025Q2,Tesla,Model 3,1.04,163,1903060763,Vietnam_North,-70.2
+2025Q2,Wuling,Mini EV,1.04,162,222366858,Vietnam_North,980.0
+2025Q2,Geely,Coolray,1.45,227,647926081,Vietnam_North,-57.96
+2025Q2,Great Wall,Haval H6,15.88,2498,981007639,Vietnam_North,133.46
+2025Q2,Nissan,Almera,0.1,15,691036746,Vietnam_North,-94.34
+2025Q2,Ford,Everest,3.2,503,954431381,Vietnam_North,-6.68
+2025Q2,Mercedes,EQA,5.15,809,2433158318,Vietnam_North,39.24
+2025Q2,VinFast,VF3,12.59,1443,831405444,Vietnam_Central,-43.43
+2025Q2,Toyota,Corolla Cross,22.21,2546,1003532991,Vietnam_Central,45.15
+2025Q2,Hyundai,Creta,7.22,827,871458063,Vietnam_Central,77.85
+2025Q2,Kia,Seltos,7.43,852,633294321,Vietnam_Central,-23.24
+2025Q2,Honda,CR-V,0.58,66,834153654,Vietnam_Central,-88.52
+2025Q2,Mitsubishi,Xpander,3.26,374,803124388,Vietnam_Central,-66.46
+2025Q2,Mazda,CX-5,0.58,66,988993777,Vietnam_Central,-90.68
+2025Q2,BYD,Atto 3,2.54,291,492960278,Vietnam_Central,29.33
+2025Q2,Tesla,Model 3,6.62,758,1649861334,Vietnam_Central,241.44
+2025Q2,Wuling,Mini EV,5.24,601,281296868,Vietnam_Central,30.94
+2025Q2,Geely,Coolray,8.26,946,658941800,Vietnam_Central,627.69
+2025Q2,Great Wall,Haval H6,7.11,814,620986641,Vietnam_Central,-3.55
+2025Q2,Nissan,Almera,6.14,703,526705738,Vietnam_Central,192.92
+2025Q2,Ford,Everest,8.49,973,989106111,Vietnam_Central,817.92
+2025Q2,Mercedes,EQA,1.71,196,1611400973,Vietnam_Central,19500.0
+2025Q2,VinFast,VF8,11.6,2434,637866300,Vietnam_South,-55.49
+2025Q2,Toyota,Corolla Cross,14.68,3080,1011092854,Vietnam_South,-9.89
+2025Q2,Hyundai,Creta,13.76,2887,540186842,Vietnam_South,126.25
+2025Q2,Kia,Morning,1.66,349,657112455,Vietnam_South,-60.74
+2025Q2,Honda,CR-V,6.33,1328,878012613,Vietnam_South,105.26
+2025Q2,Mitsubishi,Xpander,0.61,127,554864661,Vietnam_South,-89.95
+2025Q2,Mazda,CX-5,2.25,472,879941139,Vietnam_South,-41.94
+2025Q2,BYD,Dolphin,7.26,1523,324494142,Vietnam_South,101.46
+2025Q2,Tesla,Model Y,15.03,3154,1677080100,Vietnam_South,134.32
+2025Q2,Wuling,Mini EV,11.94,2507,261307312,Vietnam_South,14.74
+2025Q2,Geely,Coolray,0.34,70,469024969,Vietnam_South,-86.99
+2025Q2,Great Wall,Haval H6,0.07,14,766212273,Vietnam_South,-70.83
+2025Q2,Nissan,Almera,0.82,171,481397514,Vietnam_South,-47.87
+2025Q2,Ford,Everest,10.34,2170,1017636534,Vietnam_South,203.07
+2025Q2,Mercedes,EQA,3.34,700,1914946809,Vietnam_South,-67.43
+2025Q2,VinFast,VF8,5.7,1580,858716697,Indonesia,6.47
+2025Q2,Toyota,Vios,17.16,4757,896242143,Indonesia,169.82
+2025Q2,Hyundai,Creta,4.41,1223,514181160,Indonesia,-31.1
+2025Q2,Kia,Seltos,0.13,35,620541619,Indonesia,-98.26
+2025Q2,Honda,CR-V,2.08,577,639142477,Indonesia,64.39
+2025Q2,Mitsubishi,Xpander,4.89,1357,803566680,Indonesia,-54.83
+2025Q2,Mazda,CX-5,0.79,219,830689363,Indonesia,-62.5
+2025Q2,BYD,Atto 3,18.93,5248,428725272,Indonesia,114.29
+2025Q2,Tesla,Model Y,13.3,3687,1797707284,Indonesia,96.22
+2025Q2,Wuling,Mini EV,7.48,2074,206174199,Indonesia,-44.65
+2025Q2,Geely,Coolray,14.33,3972,616283703,Indonesia,240.07
+2025Q2,Great Wall,Haval H6,5.34,1480,946613511,Indonesia,-16.34
+2025Q2,Nissan,Almera,0.58,159,778499980,Indonesia,-90.25
+2025Q2,Ford,Ranger,3.85,1068,949839415,Indonesia,148.37
+2025Q2,Mercedes,EQA,1.03,285,1621920398,Indonesia,-79.09
+2025Q2,VinFast,VF3,15.87,4071,450416797,Thailand,92.48
+2025Q2,Toyota,Vios,5.41,1387,797132938,Thailand,-48.23
+2025Q2,Hyundai,Creta,11.82,3031,979421214,Thailand,-24.22
+2025Q2,Kia,Seltos,0.72,184,445789792,Thailand,-75.07
+2025Q2,Honda,City,10.22,2621,969301904,Thailand,3698.55
+2025Q2,Mitsubishi,Xpander,1.72,440,832534673,Thailand,-91.62
+2025Q2,Mazda,CX-5,9.21,2363,807280282,Thailand,954.91
+2025Q2,BYD,Dolphin,6.7,1717,751291239,Thailand,-22.55
+2025Q2,Tesla,Model 3,17.48,4484,1554972763,Thailand,450.18
+2025Q2,Wuling,Mini EV,0.93,239,208761101,Thailand,11850.0
+2025Q2,Geely,Coolray,3.93,1008,674122687,Thailand,-43.28
+2025Q2,Great Wall,Haval H6,0.6,155,963443703,Thailand,-89.01
+2025Q2,Nissan,Almera,0.09,23,641124139,Thailand,-97.09
+2025Q2,Ford,Ranger,13.64,3498,1267510810,Thailand,1069.9
+2025Q2,Mercedes,EQA,1.65,423,2340051131,Thailand,77.73
+2025Q2,VinFast,VF8,7.06,937,873651165,Malaysia,111.04
+2025Q2,Toyota,Vios,12.16,1614,913262786,Malaysia,-26.64
+2025Q2,Hyundai,Accent,8.48,1125,853157174,Malaysia,-27.56
+2025Q2,Kia,Morning,0.56,73,527857452,Malaysia,-66.36
+2025Q2,Honda,CR-V,1.99,263,650783320,Malaysia,-50.09
+2025Q2,Mitsubishi,Xpander,0.16,21,696487631,Malaysia,-86.0
+2025Q2,Mazda,CX-5,7.13,946,892175052,Malaysia,178.24
+2025Q2,BYD,Dolphin,8.73,1159,692569418,Malaysia,-29.59
+2025Q2,Tesla,Model Y,5.6,743,1335880453,Malaysia,-35.45
+2025Q2,Wuling,Mini EV,11.12,1476,359001607,Malaysia,58.03
+2025Q2,Geely,Coolray,9.19,1220,513696674,Malaysia,574.03
+2025Q2,Great Wall,Haval H6,5.79,768,650876608,Malaysia,59.67
+2025Q2,Nissan,Almera,2.62,347,709403482,Malaysia,-70.42
+2025Q2,Ford,Ranger,19.19,2547,1018208339,Malaysia,
+2025Q2,Mercedes,GLC,0.22,28,2935667891,Malaysia,-76.07
+2025Q3,VinFast,VF3,13.39,2312,427239728,Vietnam_North,-26.09
+2025Q3,Toyota,Vios,22.12,3819,886020318,Vietnam_North,223.92
+2025Q3,Hyundai,Creta,19.3,3332,643816152,Vietnam_North,84.19
+2025Q3,Kia,Seltos,7.05,1216,650101919,Vietnam_North,186.12
+2025Q3,Honda,CR-V,0.04,6,604937258,Vietnam_North,-99.62
+2025Q3,Mitsubishi,Xpander,8.27,1427,572706807,Vietnam_North,9.6
+2025Q3,Mazda,CX-5,11.87,2049,653609054,Vietnam_North,47.41
+2025Q3,BYD,Dolphin,6.78,1170,485437834,Vietnam_North,596.43
+2025Q3,Tesla,Model 3,1.74,300,1212686122,Vietnam_North,-71.96
+2025Q3,Wuling,Mini EV,3.08,531,345026979,Vietnam_North,-49.72
+2025Q3,Geely,Coolray,0.75,129,517914158,Vietnam_North,616.67
+2025Q3,Great Wall,Haval H6,2.5,431,765383071,Vietnam_North,33.02
+2025Q3,Nissan,Almera,0.4,68,667153143,Vietnam_North,-29.9
+2025Q3,Ford,Everest,1.85,319,1143378540,Vietnam_North,-63.46
+2025Q3,Mercedes,EQA,0.87,150,2602604574,Vietnam_North,-5.66
+2025Q3,VinFast,VF8,23.04,2638,1081215577,Vietnam_Central,51.96
+2025Q3,Toyota,Corolla Cross,9.29,1063,999873368,Vietnam_Central,-28.75
+2025Q3,Hyundai,Accent,16.63,1904,820043769,Vietnam_Central,58.8
+2025Q3,Kia,Morning,1.1,126,670987008,Vietnam_Central,-62.28
+2025Q3,Honda,CR-V,5.81,665,549852719,Vietnam_Central,-28.65
+2025Q3,Mitsubishi,Xpander,9.87,1130,619665324,Vietnam_Central,13.45
+2025Q3,Mazda,CX-5,1.03,117,793599719,Vietnam_Central,-4.1
+2025Q3,BYD,Dolphin,6.39,731,484913282,Vietnam_Central,2184.38
+2025Q3,Tesla,Model Y,1.87,213,1498493995,Vietnam_Central,85.22
+2025Q3,Wuling,Mini EV,1.21,138,330283721,Vietnam_Central,-71.49
+2025Q3,Geely,Coolray,6.4,732,617244289,Vietnam_Central,8.77
+2025Q3,Great Wall,Haval H6,11.05,1265,614462639,Vietnam_Central,72.58
+2025Q3,Nissan,Almera,3.69,422,667325776,Vietnam_Central,135.75
+2025Q3,Ford,Ranger,0.08,9,929080147,Vietnam_Central,-83.02
+2025Q3,Mercedes,EQA,2.54,290,2592218133,Vietnam_Central,-47.84
+2025Q3,VinFast,VF e34,27.29,5871,823573707,Vietnam_South,83.87
+2025Q3,Toyota,Corolla Cross,10.73,2309,753316739,Vietnam_South,-15.3
+2025Q3,Hyundai,Creta,21.06,4532,563238901,Vietnam_South,257.13
+2025Q3,Kia,Morning,0.41,88,869404135,Vietnam_South,-32.31
+2025Q3,Honda,CR-V,7.1,1528,822245704,Vietnam_South,-37.66
+2025Q3,Mitsubishi,Xpander,5.13,1103,644199646,Vietnam_South,443.35
+2025Q3,Mazda,CX-5,1.24,266,721013138,Vietnam_South,-36.36
+2025Q3,BYD,Dolphin,0.64,137,401477961,Vietnam_South,-83.25
+2025Q3,Tesla,Model 3,11.25,2421,1586411561,Vietnam_South,29.6
+2025Q3,Wuling,Mini EV,0.75,161,356570006,Vietnam_South,-82.13
+2025Q3,Geely,Coolray,0.12,25,500914054,Vietnam_South,-19.35
+2025Q3,Great Wall,Haval H6,5.58,1200,602415293,Vietnam_South,-52.89
+2025Q3,Nissan,Almera,0.13,28,758986360,Vietnam_South,-96.69
+2025Q3,Ford,Everest,2.64,568,789234520,Vietnam_South,914.29
+2025Q3,Mercedes,EQA,5.92,1274,2834767835,Vietnam_South,-60.35
+2025Q3,VinFast,VF3,6.68,1741,1060075064,Indonesia,47.17
+2025Q3,Toyota,Corolla Cross,20.63,5378,510204608,Indonesia,35.64
+2025Q3,Hyundai,Creta,9.44,2462,850342779,Indonesia,30.68
+2025Q3,Kia,Seltos,8.33,2170,590933251,Indonesia,34.7
+2025Q3,Honda,City,1.23,321,902704237,Indonesia,-41.21
+2025Q3,Mitsubishi,Xpander,5.75,1498,684297025,Indonesia,40.53
+2025Q3,Mazda,CX-5,1.2,311,792069120,Indonesia,279.27
+2025Q3,BYD,Dolphin,1.49,388,580899815,Indonesia,-90.43
+2025Q3,Tesla,Model 3,15.54,4050,1984027884,Indonesia,145.45
+2025Q3,Wuling,Mini EV,3.22,839,200900317,Indonesia,-69.98
+2025Q3,Geely,Coolray,3.49,910,782909499,Indonesia,-23.34
+2025Q3,Great Wall,Haval H6,2.8,730,805938380,Indonesia,-14.82
+2025Q3,Nissan,Almera,5.04,1315,553525616,Indonesia,-12.33
+2025Q3,Ford,Everest,12.29,3203,756530342,Indonesia,14459.09
+2025Q3,Mercedes,GLC,2.86,746,1935861851,Indonesia,258.65
+2025Q3,VinFast,VF5,1.41,306,1113323694,Thailand,-78.3
+2025Q3,Toyota,Vios,23.07,5012,1048585313,Thailand,32.94
+2025Q3,Hyundai,Creta,22.48,4882,453886826,Thailand,85.77
+2025Q3,Kia,Morning,1.93,419,470224564,Thailand,-81.06
+2025Q3,Honda,City,8.27,1796,570902764,Thailand,-11.92
+2025Q3,Mitsubishi,Xpander,0.27,58,829067104,Thailand,-94.63
+2025Q3,Mazda,CX-5,4.02,872,776951495,Thailand,136.96
+2025Q3,BYD,Atto 3,6.41,1392,566599026,Thailand,-30.71
+2025Q3,Tesla,Model 3,0.35,75,1425731247,Thailand,-81.06
+2025Q3,Wuling,Mini EV,3.61,784,359640968,Thailand,111.89
+2025Q3,Geely,Coolray,2.48,537,476226545,Thailand,-58.63
+2025Q3,Great Wall,Haval H6,9.18,1993,652471285,Thailand,8959.09
+2025Q3,Nissan,Almera,8.87,1926,792431323,Thailand,266.86
+2025Q3,Ford,Everest,2.84,616,771425224,Thailand,-2.22
+2025Q3,Mercedes,EQA,4.81,1045,2394112455,Thailand,-51.8
+2025Q3,VinFast,VF9,8.01,1107,1177097229,Malaysia,-19.61
+2025Q3,Toyota,Corolla Cross,16.23,2242,674541915,Malaysia,36.37
+2025Q3,Hyundai,Accent,11.96,1652,979203074,Malaysia,67.04
+2025Q3,Kia,Seltos,7.22,997,768948699,Malaysia,25.88
+2025Q3,Honda,City,13.15,1816,977826914,Malaysia,280.71
+2025Q3,Mitsubishi,Xpander,6.2,856,786441757,Malaysia,-26.08
+2025Q3,Mazda,CX-5,1.21,166,1052553258,Malaysia,-62.01
+2025Q3,BYD,Dolphin,5.31,733,363416702,Malaysia,-59.61
+2025Q3,Tesla,Model Y,7.94,1097,1632939574,Malaysia,169.53
+2025Q3,Wuling,Mini EV,6.53,902,256589584,Malaysia,-25.39
+2025Q3,Geely,Coolray,5.54,765,702507265,Malaysia,-54.76
+2025Q3,Great Wall,Haval H6,1.7,234,843661569,Malaysia,70.8
+2025Q3,Nissan,Almera,3.25,449,708707059,Malaysia,-28.5
+2025Q3,Ford,Ranger,5.41,747,909985557,Malaysia,5235.71
+2025Q3,Mercedes,EQA,0.33,46,2837276523,Malaysia,-80.59
+2025Q4,VinFast,VF5,50.68,7797,1074129528,Vietnam_North,268.83
+2025Q4,Toyota,Corolla Cross,5.9,908,919477044,Vietnam_North,-79.75
+2025Q4,Hyundai,Creta,4.14,637,535316678,Vietnam_North,-18.12
+2025Q4,Kia,Seltos,2.47,379,731167291,Vietnam_North,-59.64
+2025Q4,Honda,CR-V,1.54,236,657299180,Vietnam_North,257.58
+2025Q4,Mitsubishi,Xpander,1.09,168,878243849,Vietnam_North,-35.38
+2025Q4,Mazda,CX-5,1.04,159,830849212,Vietnam_North,-89.59
+2025Q4,BYD,Atto 3,2.99,459,783936723,Vietnam_North,321.1
+2025Q4,Tesla,Model Y,7.23,1112,1352433174,Vietnam_North,-32.52
+2025Q4,Wuling,Mini EV,9.76,1500,398771825,Vietnam_North,141.16
+2025Q4,Geely,Coolray,0.93,142,641966492,Vietnam_North,-82.7
+2025Q4,Great Wall,Haval H6,0.71,109,928621532,Vietnam_North,-80.11
+2025Q4,Nissan,Almera,4.91,755,637075762,Vietnam_North,68.9
+2025Q4,Ford,Ranger,4.74,728,1043381480,Vietnam_North,402.07
+2025Q4,Mercedes,GLC,1.89,290,1604749924,Vietnam_North,-46.4
+2025Q4,VinFast,VF5,27.38,3035,637442631,Vietnam_Central,77.69
+2025Q4,Toyota,Vios,16.18,1794,1095310147,Vietnam_Central,-12.62
+2025Q4,Hyundai,Creta,16.62,1843,995583045,Vietnam_Central,158.12
+2025Q4,Kia,Seltos,1.22,135,893094739,Vietnam_Central,4400.0
+2025Q4,Honda,City,12.65,1403,688527788,Vietnam_Central,289.72
+2025Q4,Mitsubishi,Xpander,1.36,150,586466974,Vietnam_Central,63.04
+2025Q4,Mazda,CX-5,0.98,108,936827938,Vietnam_Central,-8.47
+2025Q4,BYD,Atto 3,6.14,681,353387730,Vietnam_Central,100.29
+2025Q4,Tesla,Model Y,2.25,249,1793695292,Vietnam_Central,-67.28
+2025Q4,Wuling,Mini EV,2.96,328,210666785,Vietnam_Central,8.25
+2025Q4,Geely,Coolray,2.15,237,571308415,Vietnam_Central,-70.34
+2025Q4,Great Wall,Haval H6,4.84,537,865115483,Vietnam_Central,-3.07
+2025Q4,Nissan,Almera,0.69,76,730979162,Vietnam_Central,-88.81
+2025Q4,Ford,Ranger,0.53,58,854196673,Vietnam_Central,-72.9
+2025Q4,Mercedes,EQA,4.04,448,2675704559,Vietnam_Central,21.74
+2025Q4,VinFast,VF5,16.17,3463,960342352,Vietnam_South,-13.94
+2025Q4,Toyota,Vios,9.19,1967,651213222,Vietnam_South,31.13
+2025Q4,Hyundai,Creta,32.57,6976,665231379,Vietnam_South,46.22
+2025Q4,Kia,Morning,1.81,386,831865956,Vietnam_South,-38.92
+2025Q4,Honda,City,0.25,53,804536412,Vietnam_South,-92.55
+2025Q4,Mitsubishi,Xpander,3.37,721,581144494,Vietnam_South,2570.37
+2025Q4,Mazda,CX-5,4.24,909,1017687104,Vietnam_South,514.19
+2025Q4,BYD,Dolphin,2.57,550,635861808,Vietnam_South,14.11
+2025Q4,Tesla,Model 3,12.0,2569,1420992466,Vietnam_South,30.94
+2025Q4,Wuling,Mini EV,9.19,1967,242507479,Vietnam_South,294.98
+2025Q4,Geely,Coolray,1.08,232,757882997,Vietnam_South,-85.44
+2025Q4,Great Wall,Haval H6,0.96,204,921005337,Vietnam_South,112.5
+2025Q4,Nissan,Almera,3.23,692,550799290,Vietnam_South,221.86
+2025Q4,Ford,Everest,0.94,201,983790320,Vietnam_South,-89.81
+2025Q4,Mercedes,GLC,2.44,523,1841156523,Vietnam_South,79.73
+2025Q4,VinFast,VF e34,3.68,905,554655815,Indonesia,-67.38
+2025Q4,Toyota,Corolla Cross,11.57,2849,576205094,Indonesia,-54.39
+2025Q4,Hyundai,Creta,20.0,4927,501167323,Indonesia,184.8
+2025Q4,Kia,Morning,2.42,597,840021376,Indonesia,-71.63
+2025Q4,Honda,City,8.1,1994,525756918,Indonesia,135.42
+2025Q4,Mitsubishi,Xpander,6.33,1559,603868528,Indonesia,247.99
+2025Q4,Mazda,CX-5,4.69,1154,842282424,Indonesia,61.62
+2025Q4,BYD,Atto 3,13.03,3209,612659958,Indonesia,2.0
+2025Q4,Tesla,Model 3,12.53,3087,1286674274,Indonesia,123.53
+2025Q4,Wuling,Mini EV,4.98,1226,379257258,Indonesia,-38.73
+2025Q4,Geely,Coolray,3.06,754,775433560,Indonesia,238.12
+2025Q4,Great Wall,Haval H6,6.81,1678,617738936,Indonesia,3895.24
+2025Q4,Nissan,Almera,0.76,187,459417127,Indonesia,1977.78
+2025Q4,Ford,Ranger,0.59,145,1189544855,Indonesia,-76.8
+2025Q4,Mercedes,GLC,1.45,357,2658468838,Indonesia,-70.1
+2025Q4,VinFast,VF e34,4.19,862,811015890,Thailand,-78.64
+2025Q4,Toyota,Corolla Cross,18.31,3769,879713721,Thailand,45.3
+2025Q4,Hyundai,Accent,7.59,1563,500645532,Thailand,-56.7
+2025Q4,Kia,Morning,4.97,1023,482746903,Thailand,-49.46
+2025Q4,Honda,CR-V,7.9,1625,563935598,Thailand,-29.9
+2025Q4,Mitsubishi,Xpander,0.47,97,748654732,Thailand,-92.5
+2025Q4,Mazda,CX-5,3.4,700,769256889,Thailand,1300.0
+2025Q4,BYD,Dolphin,4.24,872,793488420,Thailand,-71.68
+2025Q4,Tesla,Model Y,1.08,221,1388531994,Thailand,-69.89
+2025Q4,Wuling,Mini EV,4.59,945,369675658,Thailand,1289.71
+2025Q4,Geely,Coolray,2.21,455,557742936,Thailand,-31.48
+2025Q4,Great Wall,Haval H6,4.04,832,780836324,Thailand,88.24
+2025Q4,Nissan,Almera,4.14,853,804888807,Thailand,-22.52
+2025Q4,Ford,Everest,12.33,2539,1048476933,Thailand,526.91
+2025Q4,Mercedes,EQA,20.54,4228,1954290243,Thailand,1532.43
+2025Q4,VinFast,VF5,3.02,409,731620348,Malaysia,2456.25
+2025Q4,Toyota,Vios,12.56,1701,838632006,Malaysia,6.51
+2025Q4,Hyundai,Creta,22.37,3029,702679402,Malaysia,37.68
+2025Q4,Kia,Morning,2.24,302,470570048,Malaysia,-74.21
+2025Q4,Honda,City,1.43,193,653709489,Malaysia,-53.27
+2025Q4,Mitsubishi,Xpander,1.47,198,684928025,Malaysia,209.38
+2025Q4,Mazda,CX-5,8.03,1088,679883240,Malaysia,210.86
+2025Q4,BYD,Dolphin,17.28,2341,765719559,Malaysia,-8.12
+2025Q4,Tesla,Model Y,6.55,886,1307174503,Malaysia,142.74
+2025Q4,Wuling,Mini EV,6.4,866,313644193,Malaysia,-54.4
+2025Q4,Geely,Coolray,3.49,473,714104468,Malaysia,8.49
+2025Q4,Great Wall,Haval H6,0.12,16,905264994,Malaysia,220.0
+2025Q4,Nissan,Almera,9.72,1317,823018783,Malaysia,180.21
+2025Q4,Ford,Everest,1.62,219,976179464,Malaysia,-53.6
+2025Q4,Mercedes,EQA,3.7,501,1601770842,Malaysia,106.17
